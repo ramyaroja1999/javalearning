@@ -1,0 +1,11 @@
+package day1;
+
+public class Java1 {
+    public static void main(String[] args) {
+       int x=5;
+       int y=10;
+       int sum = x*y;
+       System.out.println("number of value="+sum);
+
+    }
+}
